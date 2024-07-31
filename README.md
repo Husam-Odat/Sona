@@ -1,6 +1,8 @@
 # Sona
 react project
 
+https://main.d7c9eib5rhnk6.amplifyapp.com/
+
 
 React-project
 trello :https://trello.com/b/x9yvFuy9/group-1
